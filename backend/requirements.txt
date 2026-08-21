@@ -1,8 +1,8 @@
 fastapi
 uvicorn[standard]
 python-dotenv
-google-generativeai
+google-genai
 pydantic
 joblib
-scikit-learn
 pandas
+scikit-learn
