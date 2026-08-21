@@ -3,3 +3,6 @@ uvicorn[standard]
 python-dotenv
 google-generativeai
 pydantic
+joblib
+scikit-learn
+pandas
